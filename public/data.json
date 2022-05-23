@@ -1,0 +1,30 @@
+[
+    {
+        "id": "625badaa96d02fb1b0e743e8",
+        "price": "30,000",
+        "picture": "https://i.ibb.co/BrmVGZh/246786381-1488620461513774-5925706324649599887-n-1.jpg",
+        "name": "Pixtel pro",
+        "description": "This is the best serivces in my proudcts"
+    },
+    {
+        "id": "625badaa0e80fe6c967f2309",
+        "price": "24000",
+        "picture": "https://i.ibb.co/sVk2Vfy/247561390-857872128128377-8540319591674957700-n-1.jpg",
+        "name": "Pixtel Standered",
+        "description": "This is also best serivces in my proudcts"
+    },
+    {
+        "id": "625badaadeafc76d0faf9720",
+        "price": "1800",
+        "picture": "https://i.ibb.co/W0pgxby/248418967-170799928590563-758479349109090740-n-1.jpg",
+        "name": "Pixtel simple",
+        "description": "This is the low bughet best serivces in my proudcts"
+    },
+    {
+        "id": "625badaab055627f74417feb",
+        "price": "12000",
+        "picture": "https://i.ibb.co/ncS4RJp/248484926-415286286672798-1549374241119077798-n-1.jpg",
+        "name": "Pixtel Economy",
+        "description": "This is the low bughet best serivces in my proudcts"
+    }
+]
